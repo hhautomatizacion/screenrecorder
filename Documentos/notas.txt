@@ -1,0 +1,17 @@
+Archivos necesarios 
+
+	DGIPLUS.DLL
+	ScreenRecorder.exe
+
+Archivos opcionales
+
+	ScreenRecorder.ini
+
+Contenido por default de ScreenRecorder.ini
+
+	[Main]
+	Maquina=Lav73
+	ArchivosEnCarpeta=1000
+	EspacioLibreMinMB=10
+	MinutosLog=60
+	mSegudosCaptura=1000
