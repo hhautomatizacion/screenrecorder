@@ -11,3 +11,7 @@
 * Codigos fuente
 
 * Iconos, imagenes y archivos de configuracion de los programas
+
+![mouse.bmp](/Programas/mouse.bmp.jpg)
+![mouseK.bmp](/Programas/mouseK.bmp.jpg)
+![yellow.bmp](/Programas/yellow.bmp.jpg)
