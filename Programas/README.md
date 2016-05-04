@@ -12,6 +12,16 @@
 
 * Iconos, imagenes y archivos de configuracion de los programas
 
-![mouse.bmp](/Programas/mouse.bmp.jpg)
-![mouseK.bmp](/Programas/mouseK.bmp.jpg)
-![yellow.bmp](/Programas/yellow.bmp.jpg)
+---
+![mouse.bmp](/Programas/mouse.bmp)
+---
+![mouse.bmp.jpg](/Programas/mouse.bmp.jpg)
+---
+![mouseK.bmp](/Programas/mouseK.bmp)
+---
+![mouseK.bmp.jpg](/Programas/mouseK.bmp.jpg)
+---
+![yellow.bmp](/Programas/yellow.bmp)
+---
+![yellow.bmp.jpg](/Programas/yellow.bmp.jpg)
+---
