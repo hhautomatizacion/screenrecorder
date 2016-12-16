@@ -20,11 +20,42 @@
 * Computadora industrial PowerPanel
 
 ## Autores
-* emmanuel156
+* <a href="http://www.github.com/emmanuel156">emmanuel156</a> <img src="https://avatars0.githubusercontent.com/u/15036095?v=3" height="32" width="32">
 
 ## Comentarios
 * El programa se creo porque los operarios de la maquina se quejaban de que esta realizaba funciones de forma inesperada sin que alguien la operara. Se demostro que la programaban de forma erronea.
 * El programa tiene las funciones minimas de manera intencional para que no interfiera con el funcionamiento normal de la maquina de ninguna manera.
+
+## Contenido
+* Carpeta de Diagramas
+	* Diagramas del proyecto
+		* Diagramas electricos
+		* Diagramas de bloques
+		* Dibujos
+* Carpeta de Documentos
+	* Documentos pensados para el usuario final
+		* Manuales de usuario
+		* Manuales de programacion
+* Carpeta de Fotos
+	* Fotos del proyecto antes, durante y despues del desarrollo del mismo
+		* Fotos
+		* Capturas de pantalla
+* Carpeta de Historial
+	* Documentacion del desarrollo del proyecto
+		* Hojas de datos de componentes
+		* Manuales de usuario de componentes
+		* Documentacion de funciones, herramientas
+* Carpeta de Programas
+	* Programas de Computadora, PLC, etc. 
+		* Codigos fuente
+		* Iconos, imagenes y archivos de configuracion de los programas
+		* Programas compilados
+		* Archivos de configuracion de programas
+* Carpeta de Pruebas
+	* Pruebas preliminares del proyecto
+		* Programas incompletos, o secciones de programas
+		* Capturas de comunicacion
+		* Modelos de componentes que se hayan probado
 
 ---
 ![00000000.jpg](/Fotos/00000000.jpg)
@@ -151,13 +182,7 @@
 ---
 ![mouse.bmp](/Programas/mouse.bmp)
 ---
-![mouse.bmp.jpg](/Programas/mouse.bmp.jpg)
----
 ![mouseK.bmp](/Programas/mouseK.bmp)
 ---
-![mouseK.bmp.jpg](/Programas/mouseK.bmp.jpg)
----
 ![yellow.bmp](/Programas/yellow.bmp)
----
-![yellow.bmp.jpg](/Programas/yellow.bmp.jpg)
 ---
